@@ -1,0 +1,13 @@
+body { background-color: #dedede; }
+
+h1 { color: red; font-size:50px; }
+
+h2 { color: orange; font-size:20px; }
+
+.small{ font-size:15px; }
+
+#first { font-size:70px; }
+
+span { font-style: italic; }
+
+h2 span { text-decoration: line-through; }
